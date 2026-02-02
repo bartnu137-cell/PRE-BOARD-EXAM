@@ -40,4 +40,4 @@ This portal simulates the actual Electrical Engineering Board Exam environment w
 2.  Ensure `index.html` and `ques.js` are in the same directory.
 3.  **Open `index.html`** in any modern web browser (Chrome, Edge, Firefox).
 4.  Enter your surname to initialize the session.
-5.  Select **"Mathematics"** to begin the mock exam.
+5.  Select **"Mathematics"**,**"Esas"**,**"EE"**,**"Other"** to begin the mock exam.
